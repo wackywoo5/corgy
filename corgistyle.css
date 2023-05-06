@@ -52,6 +52,7 @@ footer {
   position: fixed;
   overflow: hidden;
   white-space: nowrap;
+  index: -100;
   top: 50%;
   -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
